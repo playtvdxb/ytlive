@@ -1,17 +1,17 @@
 [
   {
+    "ch_name": "Mediaone",
+    "group-title": "Malayalam",
+    "tvg-logo": "https://yt3.ggpht.com/ytc/AMLnZu8b3CJuOgYdfvX_0-YYnKxq0ZKxkhWpN6gTnhTinA",
+    "tvg-id": "",
+    "url": "https://www.youtube.com/channel/UC-f7r46JhYv78q5pGrO6ivA/live"
+  },
+  {
     "ch_name": "24 News",
     "group-title": "Malayalam",
     "tvg-logo": "https://yt3.ggpht.com/qsMNSX9Wz5hX1ymViDAMjugqsrhteIuik9Yb93xWde17TzCi2MBGcIUo7X8QbDfdB3jIy968tg",
     "tvg-id": "",
     "url": "https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live"
-  },
-  {
-    "ch_name": "Kairali News",
-    "group-title": "Malayalam",
-    "tvg-logo": "https://yt3.ggpht.com/ytc/AMLnZu9tim-OfoTABZLZ7JNKhvE6CVQZJva3fWN4zxV3",
-    "tvg-id": "",
-    "url": "https://www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live"
   },
   {
     "ch_name": "Asianet News",
@@ -26,13 +26,6 @@
     "tvg-logo": "https://yt3.ggpht.com/ytc/AMLnZu9yM9ZLQN0kPDBdtp0YUXOUlEtF10kDCl4FePTVGw",
     "tvg-id": "",
     "url": "https://www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live"
-  },
-  {
-    "ch_name": "Mediaone",
-    "group-title": "Malayalam",
-    "tvg-logo": "https://yt3.ggpht.com/ytc/AMLnZu8b3CJuOgYdfvX_0-YYnKxq0ZKxkhWpN6gTnhTinA",
-    "tvg-id": "",
-    "url": "https://www.youtube.com/channel/UC-f7r46JhYv78q5pGrO6ivA/live"
   },
   {
     "ch_name": "Manorama News",
@@ -56,6 +49,13 @@
     "url": "https://www.youtube.com/channel/UCbdTuwZxsxuxAp_UGbl7YpA/live"
   },
   {
+    "ch_name": "Zee Malayalam News",
+    "group-title": "Malayalam",
+    "tvg-logo": "https://yt3.ggpht.com/cmIOOd_9zU_l4dqzvg5qvjMGjNfxorCyEvqf9TeQfscNG50S10JO4NR43hjxMN8NyG72SfAwqA",
+    "tvg-id": "",
+    "url": "https://youtube.com/channel/UCka4WcizWM0WMKF-bMiYzWQ/live"
+  }
+  {
     "ch_name": "Reporter",
     "group-title": "Malayalam",
     "tvg-logo": "https://yt3.ggpht.com/F0bazmUOUnWNKldvfStlH5aU0lvpTh5afUKbeSrL344VHQ0Z--rbJaK1dQcKqQYy7h_wGcgv2g",
@@ -70,17 +70,17 @@
     "url": "https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live"
   },
   {
+    "ch_name": "Kairali News",
+    "group-title": "Malayalam",
+    "tvg-logo": "https://yt3.ggpht.com/ytc/AMLnZu9tim-OfoTABZLZ7JNKhvE6CVQZJva3fWN4zxV3",
+    "tvg-id": "",
+    "url": "https://www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live"
+  },
+  {
     "ch_name": "Jai Hind",
     "group-title": "Malayalam",
     "tvg-logo": "https://yt3.ggpht.com/ytc/AMLnZu_b2N4kUGh11w_w9zjb1iTS9A6PYoJfLa8GI7_x",
     "tvg-id": "",
     "url": "https://www.youtube.com/channel/UChtWcZy3HqvIypuk9787POA/live"
   },
-  {
-    "ch_name": "Zee Malayalam News",
-    "group-title": "Malayalam",
-    "tvg-logo": "https://yt3.ggpht.com/cmIOOd_9zU_l4dqzvg5qvjMGjNfxorCyEvqf9TeQfscNG50S10JO4NR43hjxMN8NyG72SfAwqA",
-    "tvg-id": "",
-    "url": "https://youtube.com/channel/UCka4WcizWM0WMKF-bMiYzWQ/live"
-  }
 ]
