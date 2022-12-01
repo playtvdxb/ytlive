@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u
 
 Paste the above url in any player which supports M3U playlists like [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv), [OTT Navigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator), [IPTVX](https://apps.apple.com/us/app/iptvx/id1451470024), [VLC player](https://www.videolan.org)
 
-### Run the tool on your local machine
+### Run the code on your local machine
 
 ```bash
 git clone https://github.com/firofame/Malayalam-IPTV.git
@@ -19,6 +19,6 @@ chmod +x autorun.sh
 ./autorun.sh
 ```
 
-Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
+Add a cron job to run every 4 hours.
 
-Credits: benmoose39
+### Credits: benmoose39
