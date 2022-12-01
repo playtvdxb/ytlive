@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u
 
 ### Usage
 
-Paste the above url in any player which supports M3U playlists like [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv), [OTT Navigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator), [IPTVX](https://apps.apple.com/us/app/iptvx/id1451470024), [VLC player](https://www.videolan.org)
+Paste the above url in any player which supports M3U playlists like [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv), [OTT Navigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator), [IPTVX](https://apps.apple.com/us/app/iptvx/id1451470024), [VLC player](https://www.videolan.org), [IPTVnator](https://iptvnator.vercel.app)
 
 ### Run the code on your local machine
 
