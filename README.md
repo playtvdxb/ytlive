@@ -6,7 +6,7 @@
 
 ### Usage
 
-Paste this URL: `https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u` to any player which supports M3U playlists
+Paste the above url in any player which supports M3U playlists
 
 ### Run the tool on your local machine
 
