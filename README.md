@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u
 
 ### Usage
 
-Paste the above url in any player which supports M3U playlists
+Paste the above url in any player which supports M3U playlists like [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en_IN&gl=US), [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=en_IN&gl=US)
 
 ### Run the tool on your local machine
 
