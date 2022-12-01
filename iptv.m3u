@@ -38,6 +38,3 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669888921/ei/O
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_b2N4kUGh11w_w9zjb1iTS9A6PYoJfLa8GI7_x" tvg-id="", Jai Hind
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669888922/ei/OieIY5j8H9OMir4P9cG56AM/ip/20.165.50.167/id/Pw6d4OLOoE8.1/source/yt_live_broadcast/requiressl/yes/tx/24412682/txs/24412676%2C24412677%2C24412678%2C24412679%2C24412680%2C24412681%2C24412682/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJOu70q5vPHEWKclUizFDb2MK8IVmPc5MdgOilKdscsWAiA0Jcb8HGqvR_YwNJ935LOQmmygSEU5DmVfjnaR6UCBQA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png" tvg-id="", Safari
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
