@@ -32,7 +32,7 @@ def grab(url):
 
 print('#EXTM3U')
 
-f = open('../channel_list.json')
+f = open('../youtube_channel_list.json')
 data = json.load(f)
 for channel in data:
     grp_title = channel['group-title']
