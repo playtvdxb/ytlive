@@ -21,4 +21,6 @@ chmod +x autorun.sh
 
 Add a cron job to run every 4 hours.
 
-### Credits: benmoose39
+### Credits
+
+benmoose39
