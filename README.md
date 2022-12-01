@@ -4,8 +4,6 @@
 
 `https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u`
 
-Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
-
 ### Usage
 
 Paste this URL: `https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u` to any player which supports M3U playlists
