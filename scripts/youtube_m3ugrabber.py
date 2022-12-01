@@ -43,18 +43,18 @@ for channel in youtube_channel_data:
     url = channel['url']
     grab(url)
 
-# m3u8_channel_list = open('../m3u8_channel_list.json')
-# m3u8_channel_data = json.load(m3u8_channel_list)
-# for channel in m3u8_channel_data:
-#     grp_title = channel['group-title']
-#     tvg_logo = channel['tvg-logo']
-#     tvg_id = channel['tvg-id']
-#     ch_name = channel['ch_name']
-#     print(
-#         f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+m3u8_channel_list = open('../m3u8_channel_list.json')
+m3u8_channel_data = json.load(m3u8_channel_list)
+for channel in m3u8_channel_data:
+    grp_title = channel['group-title']
+    tvg_logo = channel['tvg-logo']
+    tvg_id = channel['tvg-id']
+    ch_name = channel['ch_name']
+    print(
+        f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
 
-#     url = channel['url']
-#     print(url)
+    url = channel['url']
+    print(url)
 
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
