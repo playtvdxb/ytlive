@@ -1,9 +1,9 @@
 [
   {
-    "ch_name": "Safari",
+    "ch_name": "Asianet",
     "group-title": "Malayalam",
-    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png",
+    "tvg-logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_rgJRoVwcj6PZpXe97ijindJZpo1oqIOhSeWpx4Dj&s",
     "tvg-id": "",
-    "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+    "url": "http://46.4.77.66:80/asianet/playlist.m3u8"
   }
 ]
