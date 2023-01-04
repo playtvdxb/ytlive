@@ -3,7 +3,7 @@
 [![M3U generator for YouTube](https://github.com/firofame/Malayalam-IPTV/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/firofame/Malayalam-IPTV/actions/workflows/m3u_Generator.yml)
 
 ```bash
-https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/iptv.m3u
+https://raw.githubusercontent.com/playtvdxb/ytlive/main/iptv.m3u
 ```
 
 ### Usage
