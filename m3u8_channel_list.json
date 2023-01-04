@@ -5,5 +5,12 @@
     "tvg-logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_rgJRoVwcj6PZpXe97ijindJZpo1oqIOhSeWpx4Dj&s",
     "tvg-id": "",
     "url": "http://46.4.77.66:80/asianet/playlist.m3u8"
+  },
+  {
+    "ch_name": "ZeeNews Malayalam",
+    "group-title": "Malayalam",
+    "tvg-logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Twenty_Four_News.jpg",
+    "tvg-id": "",
+    "url": "https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8"
   }
 ]
