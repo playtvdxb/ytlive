@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Twenty_Four_News.jpg" tvg-id="", 24 News
-https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728077067/ei/qwgAZ5rLBqOosfIP09aH6Q0/ip/52.234.36.44/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280024/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxdycpKc3n-J1DxibnQceHY478qqkvRPsfkQYlMhB8wIDHZZ6MvmKfcoc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN8AjCd-pgYr52XSux6VB_ysI0dTketXU-lsRI6Y9zTXAiEAgvb6q3XLmmgLDToknYfw6T_9MR33NEW54M5Cig2WWBc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-6gNiLwaCyW67YqjElyOGS0Eb0Y1uv5R5dSh2P6y0" tvg-id="", Asianet News
 https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m3u
