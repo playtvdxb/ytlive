@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m
 https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/cmIOOd_9zU_l4dqzvg5qvjMGjNfxorCyEvqf9TeQfscNG50S10JO4NR43hjxMN8NyG72SfAwqA" tvg-id="", Zee Malayalam News
-https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767271496/ei/6BdWaYGoHdiJ-coPnrDzyAY/ip/52.165.251.240/id/-eLyB3CIzJQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3CmHefptC_Eh6fxWbheoAFadoWhmU3oTopNXgEl2Zx4cAnG-RVC5ZiTFBDurmNr9ADaIFGkKZ-f/spc/wH4Qq7WmtP7qCA5a8CIWYeCQAJ2O99xTSUGhleawrhvN-kWvWK07ZMtXQWvRhcMxLiU/vprv/1/go/1/ns/a75RvlBst3hHvzcBhFZkK8wR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/6d-D2A3nj99sWovAw5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANzIjo_SSs9nZNfkCQff1uF6rfmnzWYVU2zg71QBSbz9AiEA1GmOsF-GaTa7WQxzLXxHjCOJ5gdRt2BUNMUf5l9Q9-U%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/Ah_rRIzFeHAJFRz6ZjYlGbZybFaprZOVikiiiNTNyL8zgoLygstT6t77ZZ8xv1rcbTqPStRFMw" tvg-id="", Sabha TV
 https://raw.githubusercontent.com/firofame/Malayalam-IPTV/main/assets/moose_na.m3u
